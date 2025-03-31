@@ -29,3 +29,7 @@ HTML for structure
 CSS for styling
 
 JavaScript for functionality
+
+# Live Demo 
+
+https://anshikamishra23.github.io/SimpleCalculator/
