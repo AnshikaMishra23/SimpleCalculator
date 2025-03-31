@@ -1,8 +1,8 @@
-#Simple Calculator
+# Simple Calculator
 
 A simple web-based calculator built using HTML, CSS, and JavaScript.
 
-#Features
+# Features
 
 Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 
@@ -12,7 +12,7 @@ Square root (√) and percentage (%) calculations
 
 Clear (C) and equals (=) functionality
 
-####How to Use
+#### How to Use
 
 Click the buttons to input numbers and operations.
 
@@ -22,7 +22,7 @@ Press = to evaluate the expression.
 
 Click C to clear the current input.
 
-##Technologies Used
+## Technologies Used
 
 HTML for structure
 
